@@ -4,7 +4,7 @@
 
 ## Local Setup
 
-- Run 'git clone https://github.com/CodrixWorkspace/cloud_static_web.git' to clone the project into your local file system
+- Run `git clone https://github.com/CodrixWorkspace/cloud_static_web.git` to clone the project into your local file system
 
 
 ## Run website locally
