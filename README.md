@@ -1,4 +1,4 @@
-# Static Web Site
+# Static Website
    
   This repository contains a static web site. We use it in Codrix for Demo and Workshop purposes
 
